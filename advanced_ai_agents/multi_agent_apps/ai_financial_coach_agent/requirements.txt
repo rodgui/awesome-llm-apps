@@ -1,4 +1,4 @@
-google-adk==0.1.0
+google-adk==1.28.1
 streamlit
 pandas==2.1.1
 matplotlib==3.8.0
