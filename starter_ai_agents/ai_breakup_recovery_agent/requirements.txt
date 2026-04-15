@@ -1,4 +1,4 @@
-streamlit==1.44.1
+streamlit==1.54.0
 pillow==12.2.0
 agno==1.2.13
 google-genai==1.9.0
