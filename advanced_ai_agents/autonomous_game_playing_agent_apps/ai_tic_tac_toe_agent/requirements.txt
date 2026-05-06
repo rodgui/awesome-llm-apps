@@ -118,7 +118,7 @@ pillow==12.2.0
     # via
     #   -r cookbook/examples/apps/tic_tac_toe/requirements.in
     #   streamlit
-pip==26.0
+pip==26.1
     # via pip-tools
 pip-tools==7.4.1
     # via -r cookbook/examples/apps/tic_tac_toe/requirements.in
