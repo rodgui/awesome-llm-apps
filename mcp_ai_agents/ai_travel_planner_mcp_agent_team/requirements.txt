@@ -1,4 +1,4 @@
-agno==1.2.13
+agno==2.6.6
 mcp==1.23.0
 streamlit==1.44.1
 google-api-python-client==2.118.0
